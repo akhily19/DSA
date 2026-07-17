@@ -29,15 +29,13 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| ☕ Java | Solution Language |
-| 💻 Git | Version Control |
-| 🐙 GitHub | Code Repository |
-| ⚡ GitHub Actions | Automatic Sync |
-| 🟧 LeetCode | Problem Solving Platform |
+- ☕ Java
+- 🟧 LeetCode
+- 🐙 Git & GitHub
+- ⚡ GitHub Actions
+
 
 ---
 
