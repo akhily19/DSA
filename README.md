@@ -2,7 +2,7 @@
 
 # 🚀 Data Structures & Algorithms
 
-### Java Solutions to LeetCode Problems
+### A collection of accepted Java solutions for LeetCode problems.
 
 <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk" />
 <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
@@ -20,14 +20,12 @@
 
 This repository contains my **accepted Java solutions** to **LeetCode** Data Structures & Algorithms problems.
 
-The purpose of this repository is to:
+This repository documents my journey of solving Data Structures and Algorithms problems on LeetCode using Java. Each solution is organized by problem number and title to keep the repository clean and easy to navigate.
 
 - 📚 Strengthen DSA fundamentals
 - 🧠 Improve analytical and problem-solving skills
 - 💼 Prepare for Software Engineering interviews
 - 🚀 Track my coding journey consistently
-
-All solutions are organized by **problem number** and **problem name** for easy navigation.
 
 ---
 
@@ -43,25 +41,6 @@ All solutions are organized by **problem number** and **problem name** for easy 
 
 ---
 
-# 📂 Repository Structure
-
-```text
-DSA
-│
-├── 0001-two-sum
-│   ├── README.md
-│   └── Solution.java
-│
-├── 0002-add-two-numbers
-│   ├── README.md
-│   └── Solution.java
-│
-├── 0014-longest-common-prefix
-│
-├── 0033-search-in-rotated-sorted-array
-│
-└── ...
-```
 
 ---
 
@@ -106,28 +85,13 @@ DSA
 - Well-organized folder structure
 - Clean Java solutions
 - Easy to navigate
-- Automatically synced using GitHub Actions
 - Continuous learning and improvement
 
 ---
 
-# 📌 Coding Profiles
 
-### LeetCode
 
-Replace this with your profile link:
 
-```
-https://leetcode.com/u/YOUR_USERNAME/
-```
-
-### GitHub
-
-Replace this with your GitHub profile:
-
-```
-https://github.com/YOUR_USERNAME
-```
 
 ---
 
@@ -137,6 +101,6 @@ https://github.com/YOUR_USERNAME
 
 If you found this repository helpful, consider giving it a ⭐.
 
-**Happy Coding! 🚀**
+
 
 </div>
