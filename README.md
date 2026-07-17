@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Data Structures & Algorithms
+# Data Structures & Algorithms
 
 ### A collection of accepted Java solutions for LeetCode problems.
 
@@ -38,9 +38,6 @@ This repository documents my journey of solving Data Structures and Algorithms p
 | 🐙 GitHub | Code Repository |
 | ⚡ GitHub Actions | Automatic Sync |
 | 🟧 LeetCode | Problem Solving Platform |
-
----
-
 
 ---
 
@@ -86,13 +83,6 @@ This repository documents my journey of solving Data Structures and Algorithms p
 - Clean Java solutions
 - Easy to navigate
 - Continuous learning and improvement
-
----
-
-
-
-
-
 ---
 
 <div align="center">
